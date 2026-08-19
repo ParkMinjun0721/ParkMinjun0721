@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=ParkMinjun0721&utm_content=farm">
+  <img
+    src="https://render.gitanimals.org/farms/ParkMinjun0721"
+    width="600"
+    height="300"
+    alt="GitAnimals farm"
+  />
+</a>
