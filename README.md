@@ -16,8 +16,8 @@
 
 | Period | Focus | Highlights |
 | --- | --- | --- |
-| 2026 | Financial systems & product engineering | Insurance commission reconciliation, mortgage-loan workflows, Spring Batch, API-integrated product UI |
-| 2025 | Mobile products & applied LLMs | ReadVenture capstone, eco-driving navigation, LLM evaluation, deployed web utilities |
+| 2026 | Financial systems & product engineering | Insurance commission reconciliation, Spring Batch, API-integrated product UI |
+| 2025 | Mobile products & applied LLMs | GLANG capstone, eco-driving navigation, and LLM evaluation |
 | 2024 | Computer vision & Flutter | Automatic face anonymization experiments and cross-platform application development |
 | 2021–2023 | Software foundations | C/C++ open-source practice followed by Java, JSP, MyBatis, and web application projects |
 
@@ -29,17 +29,11 @@
 
 An insurance commission reconciliation platform for split payments, clawbacks, reconciliation, and 1200% rule validation. I work across Figma-driven UI integration, shared workflow components, contract and commission screens, and the APIs that support those user flows.
 
-### [ReadVenture (GLANG)](https://github.com/HGU-ZERO/Glang)
+### [GLANG](https://github.com/HGU-ZERO/Glang)
 
 **Capstone contributor · Flutter · Firebase · LLM APIs**
 
 An AI-assisted literacy learning application. My contributions include learning-progress and course-data persistence, authentication improvements, database integration across reading activities, localization, and GPT prompt refinement.
-
-### [Mortgage Loan Scenario](https://github.com/ParkMinjun0721/ShinhanDS_FinanceStudy_Test)
-
-**Java 17 · Spring Boot · Spring Data JPA · Spring Batch · H2/Oracle**
-
-An end-to-end mortgage workflow covering application, DSR/LTV screening, approval, idempotent disbursement, equal-principal schedules, repayment, and delinquency batch processing—with integration tests for the complete flow.
 
 ### [CashDriving](https://github.com/ParkMinjun0721/CashDriving)
 
@@ -56,7 +50,6 @@ A computer-vision project exploring automatic face anonymization in video, inclu
 ## More projects
 
 - [LLM Model Comparison](https://github.com/ParkMinjun0721/LLM-Model-Comparison) — evaluation framework for literacy-learning prompts across multiple LLMs using BLEU and ROUGE
-- [ShinhanDS Lunch Matcher](https://github.com/ParkMinjun0721/ShinhanDS_Lunch) — a JavaScript, Supabase, and Vercel team-matching tool that avoids repeating recent groups
 - [Pokemon Unite](https://github.com/ParkMinjun0721/PokemonUnite) — a maintained Flutter/Firebase web app for organizing custom matches
 
 ## Technical toolbox
